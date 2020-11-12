@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049862355031",
+    "firebase_url": "https://icatch-c3a02.firebaseio.com",
+    "project_id": "icatch-c3a02",
+    "storage_bucket": "icatch-c3a02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049862355031:android:fa6abc364b6d47f4520b12",
+        "android_client_info": {
+          "package_name": "com.example.icatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049862355031-h94e6jmk3a6sb8b6qdjuk2ikubrptn1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjZ1IxN0tnU2xN-pPp0cQE5kEdu0ULR5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049862355031-h94e6jmk3a6sb8b6qdjuk2ikubrptn1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

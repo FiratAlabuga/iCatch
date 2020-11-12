@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_add_card"
+        android:icon="@drawable/ic_credit_card_black_24dp"
+        android:title="Kart Ekle" />
+
+    <item
+        android:id="@+id/navigation_offers"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Teklifler" />
+
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/user"
+        android:title="Hesabım" />
+</menu>

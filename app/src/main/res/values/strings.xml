@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">iCatch</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+    <string name="title_home">Anasayfa</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Bildirimler</string>
+    <string name="card_transection">Kart İşlemleri</string>
+    <string name="edit_profile">Profil Düzenle</string>
+    <string name="card_details">Kart Bilgileri</string>
+    <string name="save">Kaydet</string>
+    <string-array name="gender">
+        <item>Kadın</item>
+        <item>Erkek</item>
+        <item>Belirsiz</item>
+    </string-array>
+</resources>

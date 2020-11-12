@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.icatch">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".Kart_Duzenle_SP"></activity>
+        <activity android:name=".Profil_Duzenle_SP" />
+        <activity android:name=".Kart_Islem_SP" />
+        <activity android:name=".Kart_Bilgileri_SP" />
+        <activity android:name=".Hesap_SP" />
+        <activity android:name=".Kart_EkleM_SP" />
+        <activity android:name=".Tara_Barkod_SP" />
+        <activity android:name=".Tarama_Barkod_2_SP" />
+        <activity android:name=".Tara_Barkod_Con_SP" />
+        <activity android:name=".Kart_Secilen_Liste_SP" />
+        <activity android:name=".Sifre_Unutma_SP" />
+        <activity android:name=".Chatbot_SP"/>
+        <activity android:name=".GirisLogin_SP">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity
+            android:name=".AnaHome_SP"
+            android:label="@string/title_activity_home_page" />
+        <activity android:name=".Kisisel_Bilgiler_SP" />
+        <activity android:name=".MainActivity"/>
+        <activity
+            android:name=".Portre_SP"
+            android:screenOrientation="fullSensor"
+            android:stateNotNeeded="true"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name=".Teklifler_SP" />
+    </application>
+
+</manifest>
